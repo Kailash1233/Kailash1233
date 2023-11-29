@@ -48,7 +48,7 @@
 <p align="left">
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-   <a href="https://brandlogos.net/capcut-logo-vector-101108.html">  <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fapps.microsoft.com%2Fdetail%2FXP9KN75RRB9NHS%3F&psig=AOvVaw1e80V7hvsYwxdaNuBl9Q4M&ust=1701358660011000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCpq4bF6YIDFQAAAAAdAAAAABAE](https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBaQDG.nPeYqpMXSUQbV6ZbDhNE.E9GQauy0cKPsTmtIiwSonZwa4h_1s13Y_TCeCzDNYOscXA6zBK90B9XOiHSs-&format=source)" alt="capcut" width="40" height="40"> </a>
+   <a href="https://brandlogos.net/capcut-logo-vector-101108.html">  <img src="https://qph.cf2.quoracdn.net/main-qimg-41dea8935933ee90f83d626abe1efe77" alt="capcut" width="40" height="40"> </a>
 </p>
 
 <h3 align="left">Currently Learning</h3>
