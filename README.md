@@ -11,6 +11,8 @@
 
 - 💬 Ask me about **JavaScript, React.js**
 
+- Video Editing - CapCut, PremiereProCC
+
 - 📫 How to reach me **beastopclips@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
