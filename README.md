@@ -49,7 +49,7 @@
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
    <a href="https://brandlogos.net/capcut-logo-vector-101108.html">  <img src="https://qph.cf2.quoracdn.net/main-qimg-41dea8935933ee90f83d626abe1efe77" alt="capcut" width="40" height="40"> </a>
-   <a href="https://logowik.com/adobe-premiere-2020-vector-logo-7470.html"><img src="https://worldvectorlogo.com/logo/premiere-cc" alt="ppcc" width="40" height="40">
+   <a href="https://logowik.com/adobe-premiere-2020-vector-logo-7470.html"> <img src="https://worldvectorlogo.com/logo/premiere-cc" alt="ppcc" width="40" height="40"> </a>
  
 </p>
 
