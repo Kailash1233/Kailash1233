@@ -52,7 +52,7 @@
    <a href="https://brandlogos.net/capcut-logo-vector-101108.html">  <img src="https://qph.cf2.quoracdn.net/main-qimg-41dea8935933ee90f83d626abe1efe77" alt="capcut" width="40" height="40"> </a>
    <a href="https://logowik.com/adobe-premiere-2020-vector-logo-7470.html"> <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/10c52295-6788-4dc3-9124-ca065d009b7d.png" alt="ppcc" width="40" height="40"> </a>
    <a href="https://code.visualstudio.com/Download"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="vs code" width="40" height="40"> </a>
-   
+   <a href="https://www.canva.com"> <img src="https://th.bing.com/th/id/OIP.su-ScISmvxF0kaLZ85C_oQAAAA?rs=1&pid=ImgDetMain" alt="canva" width="40" height="40"> </a>
   
  
 </p>
