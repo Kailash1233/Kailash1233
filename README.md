@@ -19,6 +19,8 @@
 <a href="https://www.linkedin.com/in/kailash-g-831463241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kailash g" height="30" width="40" /></a>
 <a href="https://instagram.com/i_am_signed_out" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_signed_out" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/illusional force" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="illusional force" height="30" width="40" /></a>
+<a href="https://twitter.com/Kailash61203" target="blank"><img align="center" src="![image](https://github.com/Kailash1233/Kailash1233/assets/108882615/e2eb452d-d1de-4259-ab8e-49ac6df45b34)
+" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Skills</h3>
