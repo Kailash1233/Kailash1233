@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kailash1233&label=Profile%20views&color=ff0000&style=flat" alt="kailash1233" /> </p>
 
-- 👊 Expertise in Front-End Technology **React.js, Vue.js**
+- 👊 Expertise in Front-End Technology **React.js, JavaScript**
 
 - 🌱 I’m currently learning **TypeScript, Next.js and DSA**
 
