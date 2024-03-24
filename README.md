@@ -1,6 +1,6 @@
 <h1 align="center">Heyy 👋, I'm Kailash G</h1>
 <h3 align="center">Passionate Full Stack Developer (MERN)</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif?cid=ecf05e47403mm9ln2gyron40n3aq1voou6mjf6ejri2nklrp&ep=v1_gifs_search&rid=giphy.gif&ct=g" loop />
+<!-- <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif?cid=ecf05e47403mm9ln2gyron40n3aq1voou6mjf6ejri2nklrp&ep=v1_gifs_search&rid=giphy.gif&ct=g" loop /> -->
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" loop />
 
 
