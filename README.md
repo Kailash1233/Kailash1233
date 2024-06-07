@@ -8,7 +8,7 @@
 
 - 👊 Expertise in Front-End Technology **React.js, JavaScript**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **DSA**, **Backend Technologies**
 
 - 💬 Ask me about **JavaScript, React.js**
 
