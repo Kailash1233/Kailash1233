@@ -38,7 +38,7 @@
   <img src="https://qph.cf2.quoracdn.net/main-qimg-41dea8935933ee90f83d626abe1efe77" alt="capcut" width="40" />
   <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/10c52295-6788-4dc3-9124-ca065d009b7d.png" alt="premiere pro" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Canva_logo..png" width="40" />
+  <img src="https://public.canva.site/logo/media/dfb96cc174513093cd6ed61489ccb750.svg" width="40" />
 </div>
 
 ---
