@@ -1,72 +1,63 @@
-<h1 align="center">Heyy 👋, I'm Kailash G</h1>
-<h3 align="center">Passionate Full Stack Developer (MERN)</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif?cid=ecf05e47403mm9ln2gyron40n3aq1voou6mjf6ejri2nklrp&ep=v1_gifs_search&rid=giphy.gif&ct=g" loop /> -->
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" loop />
+<h1 align="center">Hey 👋, I'm Kailash</h1>
+<h3 align="center">Full Stack Developer | MERN Stack</h3>
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kailash1233&label=Profile%20views&color=ff0000&style=flat" alt="kailash1233" /> </p>
 
-- 👊 Expertise in Front-End Technology **React.js, JavaScript**
+---
 
-- 🌱 I’m currently learning **DSA**, **Backend Technologies**
+### 🔧 Tech Stack
 
-- 💬 Ask me about **JavaScript, React.js**
+#### 🚀 Frontend
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
+  <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
+  <img src="https://e7.pngegg.com/pngimages/439/345/png-clipart-bootstrap-logo-thumbnail-tech-companies.png" width="40" />
+</div>
 
-- Video Editing - CapCut, PremiereProCC
+#### 💻 Backend
+<div> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" title="Node.js"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" style="background-color: white; padding: 4px; border-radius: 6px;" title="Express.js"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" title="MongoDB"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" title="MySQL"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" title="Firebase"/> </div>
 
-- 📫 How to reach me **beastopclips@gmail.com**
+#### 🧠 Currently Learning
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/kailash-g-831463241/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kailash g" height="30" width="40" /></a>
-<a href="https://instagram.com/i_am_signed_out" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_signed_out" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/illusional force" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="illusional force" height="30" width="40" /></a>
-<a href="https://twitter.com/Kailash61203" target="blank"><img src="https://images.hdqwalls.com/wallpapers/twitter-x-fe.jpg" height="30" width="40" /></a>
+#### 🛠 Tools & Platforms
+<div>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
+  <img src="https://qph.cf2.quoracdn.net/main-qimg-41dea8935933ee90f83d626abe1efe77" alt="capcut" width="40" />
+  <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/10c52295-6788-4dc3-9124-ca065d009b7d.png" alt="premiere pro" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Canva_logo..png" width="40" />
+</div>
+
+---
+
+### 📫 Connect With Me
+<p>
+  <a href="https://www.linkedin.com/in/kailash1203/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" /></a>
+  <a href="https://www.instagram.com/kailash_61203/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" /></a>
+<!--   <a href="https://www.youtube.com/c/illusionalforce" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" /></a> -->
+  <a href="https://x.com/Kailash61203" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" height="30" /></a>
 </p>
 
-<h3 align="left">Languages and Skills</h3>
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+---
+
+### 📊 GitHub Stats
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kailash1233&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<h3 align="left">Frameworks</h3>
-<p align="left"> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="nextjs" width="40" height="40" /> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/439/345/png-clipart-bootstrap-logo-thumbnail-tech-companies.png" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-  
-<h3 align="left">Backend Technologies</h3>
-<p align="left">
-   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kailash1233&" alt="GitHub Streak" />
 </p>
-
-<h3 align="left">Tools</h3>
-<p align="left">
-   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-   <a href="https://brandlogos.net/capcut-logo-vector-101108.html">  <img src="https://qph.cf2.quoracdn.net/main-qimg-41dea8935933ee90f83d626abe1efe77" alt="capcut" width="40" height="40"> </a>
-   <a href="https://logowik.com/adobe-premiere-2020-vector-logo-7470.html"> <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/10c52295-6788-4dc3-9124-ca065d009b7d.png" alt="ppcc" width="40" height="40"> </a>
-   <a href="https://code.visualstudio.com/Download"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="vs code" width="40" height="40"> </a>
-   <a href="https://www.canva.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Canva_logo..png" alt="canva" width="40" height="40"> </a>
-  
- 
-</p>
-
-<h3 align="left">Currently Learning</h3>
-<p align="left"> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kailash1233&show_icons=true&locale=en&layout=compact" alt="kailash1233" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kailash1233&" alt="kailash1233" /></p> 
